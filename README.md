@@ -1,4 +1,3 @@
 # Skill-Factory
-[x]
-[x]
-[x]
+- [ ] Mercury
+- [x] Venus
